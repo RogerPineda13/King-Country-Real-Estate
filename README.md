@@ -1,6 +1,6 @@
 # King County Real Estate Advice
 ## Overview
-This project uses statistical analysis, simple linear regression and  multivariate linear regression modeling to analyze housing data in King County, Washington. The purpose of this project is to provide an accurate model for Seattle based, Every Door Real Estate Company, that can be used to advise their clients on both sales and purchases of residential real estate in King County.
+This project uses statistical analysis, simple linear regression and  multiple linear regression modeling to analyze housing data in King County, Washington. The purpose of this project is to provide an accurate model for Seattle based, Every Door Real Estate Company, that can be used to advise their clients on both sales and purchases of residential real estate in King County.
 ## Business Problem & Key Questions
 As a real estate agency firm, their primary role is to connect potential buyers and sellers of real estate properties. It is therefore imperative that they provide an accurate information and services to their clients and ensure both parties consent on a fair property price. Every Door Real Estate Company needs a model that provides statistically significant information on features that impact housing value and predicts a fair price based on those features and will make ssure the client is content on their decision of choosing Every Door Real Estate Company. 
 
